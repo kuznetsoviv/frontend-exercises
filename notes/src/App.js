@@ -27,7 +27,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="container">
       <h1>Notes App</h1>
       <div className="note-form">
         <input
