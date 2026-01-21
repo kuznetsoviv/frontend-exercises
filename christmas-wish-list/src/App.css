@@ -1,0 +1,15 @@
+.App {
+    color: #fff;
+    font-family: "Your-Christmas-Theme-Font", sans-serif;
+}
+
+.app-container {
+    margin-top: -4vh;
+    position: relative;
+    z-index: 2;
+    background: url("./christmas.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 200vh;
+    color: #fff;
+}
